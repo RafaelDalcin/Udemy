@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSUdXIDFPv3651Ofd1iwV1WytyAtz3mHLj+kZwsy0D96rGHmwXNZHhmxfoQ6SMQEmXJLgBRqM+wAqHrMBYWT1g==",
+  "dgSpecHash": "m92wBijMU1PGmVc4YQbpmY7G6j2NuMBojzw4i0eSFussjWukRm104Zk9SNT8shWf4Pp4kduw6D4yiSgBhfDdYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

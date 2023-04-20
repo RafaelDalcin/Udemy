@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Udemy\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
